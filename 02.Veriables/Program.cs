@@ -114,32 +114,37 @@ namespace _02.Veriables
 
             #endregion
 
-            #region Klavyeden Tam Sayı Girişleri ve Dönüşümler Sonuç Yanlış Cıkıyor
+            #region Klavyeden Tam Sayı Girişleri ve Dönüşümler
 
-            //int shoesPrice, computerPrice, chairPrice, tvPrice;
-            //shoesPrice = 1000;
-            //computerPrice = 20000;
-            //chairPrice = 5000;
-            //tvPrice = 12000;
+            int shoesPrice, computerPrice, chairPrice, tvPrice;
+            shoesPrice = 1000;
+            computerPrice = 20000;
+            chairPrice = 5000;
+            tvPrice = 12000;
 
-            //int shoesCount, computerCount, chairCount,  tvCount;
+            int shoesCount, computerCount, chairCount, tvCount;
 
-            //Console.Write("Lütfen Aldığınız Ayakkabı Sayısını Giriniz:");
-            //shoesCount = int.Parse (Console.ReadLine());
 
-            //Console.Write("Lütfen Aldığınız Bilgisayar Sayısını Giriniz: ");
-            //computerCount = int.Parse (Console.ReadLine());
+            Console.Write("Lütfen Aldığınız Ayakkabı Sayısını Giriniz:");
+            shoesCount = int.Parse(Console.ReadLine());
 
-            //Console.Write("Lütfen Aldığınız Sandalye Sayısını Giriniz: ");
-            //chairCount = int.Parse (Console.ReadLine());
+            Console.Write("Lütfen Aldığınız Bilgisayar Sayısını Giriniz: ");
+            computerCount = int.Parse(Console.ReadLine());
 
-            //Console.Write("Lütfen Aldığınız Televizyon Sayısını Giriniz: ");
-            //tvCount = int.Parse (Console.ReadLine());
+            Console.Write("Lütfen Aldığınız Sandalye Sayısını Giriniz: ");
+            chairCount = int.Parse(Console.ReadLine());
 
-            //int totalPrice = shoesCount * shoesPrice + computerPrice * computerPrice + chairCount * chairPrice + tvCount * tvPrice;
+            Console.Write("Lütfen Aldığınız Televizyon Sayısını Giriniz: ");
+            tvCount = int.Parse(Console.ReadLine());
 
-            //Console.WriteLine();
-            //Console.WriteLine("Toplam Ödemeniz Gerekem Tutar: " + totalPrice);
+            int totalPrice =
+                shoesCount * shoesPrice + 
+                computerCount * computerPrice + 
+                chairCount * chairPrice + 
+                tvCount * tvPrice;
+
+            Console.WriteLine();
+            Console.WriteLine("Toplam Ödemeniz Gerekem Tutar: " + totalPrice);
 
 
 
