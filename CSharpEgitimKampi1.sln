@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_MakingDecision", "03_Mak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Loops", "04_Loops\04_Loops.csproj", "{1FAFF4CC-CD36-49A8-9466-D1BF81DD7D44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Loops WithStars", "05.Loops WithStars\05.Loops WithStars.csproj", "{BB4F94FF-4138-4E5A-B379-BA9ADB29046F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.LoopsWithStars", "05.Loops WithStars\05.LoopsWithStars.csproj", "{BB4F94FF-4138-4E5A-B379-BA9ADB29046F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Arrays", "06_Arrays\06_Arrays.csproj", "{4EA380A0-1471-46E8-AEA6-B58569BAA47C}"
 EndProject

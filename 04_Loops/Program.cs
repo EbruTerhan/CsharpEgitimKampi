@@ -12,8 +12,8 @@ namespace _04_Loops
         {
             #region For Döngüler
 
-            // Döngüler 1+2+3+4+5+6
-            // 3+3=6+4=10+5=15+6=21
+            //Döngüler 1 + 2 + 3 + 4 + 5 + 6
+            // 3 + 3 = 6 + 4 = 10 + 5 = 15 + 6 = 21
 
             // for (x;y;z)
             //x; başlangiç değeri
