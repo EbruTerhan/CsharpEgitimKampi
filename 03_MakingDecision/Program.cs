@@ -295,11 +295,11 @@ namespace _03_MakingDecision
             //Console.Write("2.Sayıyı Giriniz:");
             //number2 = int.Parse(Console.ReadLine());
 
-            //Console.Write("Lütfen Yapmak İstedğiniz İşlemi Giriniz:");
+            //Console.Write("Lütfen Yapmak İstediğiniz İşlemi Giriniz:");
             //symbol = char.Parse(Console.ReadLine());
 
             //switch (symbol)
-            //{ 
+            //{
             //    case '+':
             //        result = number1 + number2;
             //        Console.WriteLine("Toplam: " + result);
